@@ -9,6 +9,10 @@ public class Subtraction {
 		int z=x-y;
 		System.out.println(z);
 		
+		y=40;
+		z=x-y;
+		System.out.println(z);
+		
 	}
 
 } 
